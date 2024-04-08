@@ -26,7 +26,7 @@ def print_word_count(sentence):
 
 
 
-text = """In our increasingly data-driven world, the transformative potential of converting raw data into 
+text = """In our increasingly data-drive world, the transformative potential of converting raw data into 
 actionable insights has become a cornerstone of informed decision-making. This report 
 undertakes a comprehensive exploration of predictive analysis—an integral subset of data 
 analytics that harnesses the power of statistical algorithms and machine learning techniques to 
